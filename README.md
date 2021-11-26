@@ -9,7 +9,7 @@
 **Hackathons**
 - Facebook @ Waterloo 2012: [NinjaQuote](https://github.com/psobot/ninjaquote)
 - Facebook Global Finals 2012: [Quin](https://github.com/sgreenlay/Quin)
-- HoloHacks 2016: [HoloCompass](https://github.com/sgreenlay/HoloCompass)
+- HoloHacks Seattle 2016: [HoloCompass](https://github.com/sgreenlay/HoloCompass)
 
 **Game Jams**
 - Global Game Jam: [2014](https://github.com/sgreenlay/Colonies)
@@ -18,4 +18,4 @@
 **Advent of Code**
 - 2018: [C++](https://github.com/sgreenlay/aoc-2018)
 - 2019: [Rust](https://github.com/sgreenlay/aoc-2019)
-- 2020: [Swift](https://github.com/sgreenlay/aoc-2018)
+- 2020: [Swift](https://github.com/sgreenlay/aoc-2020)
