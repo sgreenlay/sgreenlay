@@ -1,11 +1,5 @@
 👋 Hi there! My name is Scott Greenlay, and this is my personal GitHub!
 
-**Personal Infrastructure**
-- Sensors: [Server](https://github.com/sgreenlay/Sensors)
-- Bookmarking: [Server](https://github.com/sgreenlay/ReadItLater), [Chrome Extension](https://github.com/sgreenlay/ReadItLater-Chrome), [Safari Extension](https://github.com/sgreenlay/ReaditLater-Safari)
-- Stocks: [Web App](https://github.com/sgreenlay/Portfolio)
-- Postcards: [Web App](https://github.com/sgreenlay/Post)
-
 **Hackathons**
 - Facebook @ Waterloo 2012: [NinjaQuote](https://github.com/psobot/ninjaquote)
 - Facebook Global Finals 2012: [Quin](https://github.com/sgreenlay/Quin)
