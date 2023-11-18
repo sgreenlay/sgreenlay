@@ -13,4 +13,4 @@
 - 2018: [C++](https://github.com/sgreenlay/aoc-2018)
 - 2019: [Rust](https://github.com/sgreenlay/aoc-2019)
 - 2020: [Swift](https://github.com/sgreenlay/aoc-2020)
-- 2021: [C#](https://github.com/sgreenlay/aoc-2021)
+- 2021: [C#](https://github.com/sgreenlay/aoc-2021) (Partial)
